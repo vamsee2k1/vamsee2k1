@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vamsee2k1
+- 👋 Hi, I’m A.K.Vamsee Krishna 
 - 👀 I’m interested in bioinformatics, health informatics, and data-driven research in genomics and proteomics.
 - 🌱 I’m currently learning advanced NGS pipelines and machine learning applications in bioinformatics as part of my MSc in Applied Bioinformatics at Cranfield University.
 - 💞️ I’m looking to collaborate on innovative bioinformatics projects, particularly those involving RNA-Seq data analysis, genome assembly, and data integration, personal nutrition.
