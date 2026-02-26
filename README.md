@@ -129,12 +129,13 @@ A reproducible Snakemake pipeline for **variant interpretation, GWAS summary wor
 - Focused on scientific usability and interpretable outputs
 - **Awarded Best Group Project** for technical innovation and usability
 
-### 🧬 Ongoing Personal Project (Independent)
-**AI-Powered Predictive Genomic Diagnostic / Risk Tool (research-oriented concept)**
+### 🧬 Personal Project (Independent) — Completed
+**PRS / GWAS / SNP Pipeline for Genomic Risk & Variant Interpretation**
 
-- Designing a dual-use genomics tool for researchers/public users to estimate disease risk from DNA data using PRS scoring
-- Planned expansion toward multi-omics integration and pathway reporting
-- Tech direction includes modern web app + genomics processing components (FastAPI / React / variant tooling stack)
+- Built and published a reproducible Snakemake pipeline for variant-centric interpretation, GWAS summary workflows, and PRS-ready analysis
+- Implemented `variant_only` workflows for `VCF / VCF.GZ / CSV / TSV` inputs with QC metrics, annotation, visualization, and enrichment outputs
+- Added documented install/run steps, mode-specific runtime observations, example test inputs, and local resource requirements for reproducible use on other systems
+- Designed a phase-2 web-platform architecture blueprint (API + worker + database) for future deployment without changing the core pipeline engine
 
 ---
 
