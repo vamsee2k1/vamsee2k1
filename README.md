@@ -33,7 +33,7 @@ I build analysis systems that are:
 
 ## Flagship Project (Pinned)
 
-### [`PRS_GWAS_SNP_PIPELINE`](https://github.com/vamsee2k1/PRS_GWAS_SNP_PIPELINE)
+pranixbio.co.uk 
 A reproducible Snakemake pipeline for variant interpretation, GWAS summary workflows, and PRS-ready analysis.
 
 ### Project Status
@@ -53,36 +53,6 @@ A reproducible Snakemake pipeline for variant interpretation, GWAS summary workf
 - Combines pipeline engineering + biological interpretation
 - Documents real runs and examples
 - Explicit about reference builds, resources, and reproducibility limits
-
-### Useful entry points
-- [Pipeline README](https://github.com/vamsee2k1/PRS_GWAS_SNP_PIPELINE)
-- [Input format docs](https://github.com/vamsee2k1/PRS_GWAS_SNP_PIPELINE/blob/main/docs/USER_INPUT_FORMATS.md)
-- [AI integration docs](https://github.com/vamsee2k1/PRS_GWAS_SNP_PIPELINE/blob/main/docs/AI_INTEGRATION.md)
-- [Reproducible execution notes](https://github.com/vamsee2k1/PRS_GWAS_SNP_PIPELINE/blob/main/docs/REPRODUCIBLE_EXECUTION.md)
-- [CITATION.cff](https://github.com/vamsee2k1/PRS_GWAS_SNP_PIPELINE/blob/main/CITATION.cff)
-
----
-
-## Example Outputs (from the pipeline)
-
-<table>
-  <tr>
-    <td align="center"><b>QC Before/After (Full Mode)</b></td>
-    <td align="center"><b>Variant Type Counts</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/vamsee2k1/PRS_GWAS_SNP_PIPELINE/main/docs/assets/readme/full/qc_before_after.png" width="420" alt="QC before after plot" /></td>
-    <td><img src="https://raw.githubusercontent.com/vamsee2k1/PRS_GWAS_SNP_PIPELINE/main/docs/assets/readme/full/variant_type_counts.png" width="420" alt="Variant type counts plot" /></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Variant Enrichment (Full Mode)</b></td>
-    <td align="center"><b>PRS Distribution (Variant-Only Example)</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/vamsee2k1/PRS_GWAS_SNP_PIPELINE/main/docs/assets/readme/full/variant_enrichment_dotplot.png" width="420" alt="Variant enrichment dotplot" /></td>
-    <td><img src="https://raw.githubusercontent.com/vamsee2k1/PRS_GWAS_SNP_PIPELINE/main/docs/assets/readme/variant_only/prs_distribution.png" width="420" alt="PRS distribution plot" /></td>
-  </tr>
-</table>
 
 ---
 
