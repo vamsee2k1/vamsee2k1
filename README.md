@@ -5,7 +5,7 @@ Bioinformatics Engineer | Genomics Pipeline Developer | PRS/GWAS Workflow Builde
 M.Sc. in Applied Bioinformatics (Cranfield University, UK) with hands-on experience building reproducible NGS pipelines, integrating DNA/RNA-seq workflows, and translating genomic data into biologically interpretable outputs.
 
 I work at the intersection of:
-- bioinformatics pipeline engineering (Snakemake / HPC / automation)
+- bioinformatics pipeline engineering (Snakemake / HPC / automation / AI / Nextflow)
 - variant + GWAS + PRS analysis
 - data science and statistics for biological datasets
 - web tools for scientific usability
